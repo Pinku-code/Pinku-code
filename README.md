@@ -1,6 +1,6 @@
 ![logo](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX52108380.jpg)
 # 💫 About Me:
-<img src="[https://i.pinimg.com/originals/d9/73/e9/d973e9bebe9d6d809e861c267942d151.png](https://38.media.tumblr.com/52d707ec600162594e1ea34ec1a8da70/tumblr_nkln8rQA7Q1shpedgo1_540.gif)">
+<img src="https://i.pinimg.com/originals/d9/73/e9/d973e9bebe9d6d809e861c267942d151.png">
 
 
 ## 🌐 Socials:
