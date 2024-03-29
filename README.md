@@ -1,4 +1,4 @@
-![logo]([https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX52108380.jpg](https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127))
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 # 💫 About Me:
 <img src="https://i.pinimg.com/originals/d9/73/e9/d973e9bebe9d6d809e861c267942d151.png">
 
