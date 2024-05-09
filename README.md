@@ -1,38 +1,50 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-# 💫 About Me:
-<img src="https://i.pinimg.com/originals/d9/73/e9/d973e9bebe9d6d809e861c267942d151.png">
+---
 
+# Hello, I'm Abinash 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abinash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abinash) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pinku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abinash) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abinash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abinash) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abinash) 
+![Profile Banner](link_to_banner_image.png)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pinku-code&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pinku-code&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinku-code&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate software engineer with a keen interest in building scalable and robust applications. My expertise lies in Web applications using MERN (MongoDB, Express.js, React.js, Node.js) stack, Data Structures and Algorithms, and I enjoy working on projects that challenge me to learn and grow as a developer.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pinku-code&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+## 🚀 About Me
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abinash)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+- 🎓 Graduated with a degree in Computer Science.
+- 🔭 Exploring new technologies and frameworks to expand my skill set.
+- 🌱 Open to collaboration and eager to contribute to open-source projects.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💻 Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pinku-code&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- **Languages:** C/C++,Python,JavaScript.
+- **Frameworks/Libraries:** React,ExpressJs.
+- **Databases:** MongoDB,PostgreSQL.
+- **Tools/Platforms:** Visual Studio Code, Git, Github, PyCharm.
+- **Operating Systems:** Linux, Windows, Mac.
+  
+<## 🛠️ Projects
 
-### 😂 Random Dev Meme
-“Computers are fast; programmers keep it slow.”
+- [Project Name](link_to_project_repo) - Brief description of the project.
+- [Project Name](link_to_project_repo) - Brief description of the project.
+- [Project Name](link_to_project_repo) - Brief description of the project.>
+
+## 📝 Blog
+
+Apart from coding, I also enjoy writing about [topics related to your field/interests]. Check out my latest articles:
+
+- [Article Title](link_to_article) - Brief description of the article.
+- [Article Title](link_to_article) - Brief description of the article.
+- [Article Title](link_to_article) - Brief description of the article.
+
+## 📫 Let's Connect
+
+- Twitter: [Your Twitter Handle](link_to_twitter)
+- LinkedIn: https://in.linkedin.com(link_to_linkedin)
+- Website: https://abinash-portfolio-eight.vercel.app(link_to_website)
+- Email: ns4507262@gmail.com (mailto:ns4507262@gmail.com)
+
+## ⚡ Fun Fact
+
+Still rely on autocomplete for basic CSS properties. 🤷‍♂️💻
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pinku-code&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/abinash) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Feel free to customize this template with your own information, projects, and personality. Adding visuals, badges, and personal touches can make your GitHub profile README more engaging and memorable. Happy coding and networking!
