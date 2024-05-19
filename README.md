@@ -39,7 +39,7 @@ Apart from coding, I also enjoy writing about [topics related to your field/inte
 
 - Twitter: [Your Twitter Handle](link_to_twitter)
 - LinkedIn: https://in.linkedin.com(link_to_linkedin)
-- Website: https://abinash-portfolio-eight.vercel.app(link_to_website)
+- Website: https://abinash-portfolio-eight.vercel.app
 - Email: ns4507262@gmail.com (mailto:ns4507262@gmail.com)
 
 ## ⚡ Fun Fact
