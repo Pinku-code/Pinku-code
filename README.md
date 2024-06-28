@@ -19,25 +19,11 @@ I'm a passionate software engineer with a keen interest in building scalable and
 - **Tools/Platforms:** Visual Studio Code, Git, Github, PyCharm.
 - **Operating Systems:** Linux, Windows, Mac.
   
-<## 🛠️ Projects
-
-- [Project Name](link_to_project_repo) - Brief description of the project.
-- [Project Name](link_to_project_repo) - Brief description of the project.
-- [Project Name](link_to_project_repo) - Brief description of the project.>
-
-## 📝 Blog
-
-Apart from coding, I also enjoy writing about [topics related to your field/interests]. Check out my latest articles:
-
-- [Article Title](link_to_article) - Brief description of the article.
-- [Article Title](link_to_article) - Brief description of the article.
-- [Article Title](link_to_article) - Brief description of the article.
 
 ## 📫 Let's Connect
 
-- Twitter: [Your Twitter Handle](link_to_twitter)
 - LinkedIn: https://in.linkedin.com(link_to_linkedin)
-- Website: https://abinash-portfolio-eight.vercel.app
+- Website: https://abinash-portfolio-three.vercel.app
 - Email: ns4507262@gmail.com (mailto:ns4507262@gmail.com)
 
 ## ⚡ Fun Fact
