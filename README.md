@@ -2,8 +2,6 @@
 
 # Hello, I'm Abinash 👋
 
-<img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt="Profile Banner"  width="900">
-
 
 I'm a passionate software engineer with a keen interest in building scalable and robust applications. My expertise lies in Web applications using MERN (MongoDB, Express.js, React.js, Node.js) stack, Data Structures and Algorithms, and I enjoy working on projects that challenge me to learn and grow as a developer.
 
