@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=Linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
 
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -23,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinku-code&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
+---
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -30,14 +32,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinku-code&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Streak" />
 </p>
 
+---
 
+<h2 align="center">🎨 Theme Switcher</h2>
+
+<p align="center">
+  <a href="#" onclick="toggleTheme('light')"><img src="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=apacherocketmq&logoColor=black" alt="Light Theme"></a>
+  <a href="#" onclick="toggleTheme('dark')"><img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="Dark Theme"></a>
+</p>
+
+<script>
+  function toggleTheme(theme) {
+    document.body.classList.toggle(theme);
+  }
+</script>
+
+---
 
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/username"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/username/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/username"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
 </p>
 
 <p align="center">
