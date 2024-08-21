@@ -37,15 +37,13 @@
 <h2 align="center">🎨 Theme Switcher</h2>
 
 <p align="center">
-  <a href="#" onclick="toggleTheme('light')"><img src="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=apacherocketmq&logoColor=black" alt="Light Theme"></a>
-  <a href="#" onclick="toggleTheme('dark')"><img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="Dark Theme"></a>
+  <img src="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=apacherocketmq&logoColor=black" alt="Light Theme" />
+  <img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="Dark Theme" />
 </p>
 
-<script>
-  function toggleTheme(theme) {
-    document.body.classList.toggle(theme);
-  }
-</script>
+<p align="center">
+  <small>To implement a theme switcher in your projects, you can use JavaScript libraries such as <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> or write custom scripts to toggle between light and dark modes.</small>
+</p>
 
 ---
 
