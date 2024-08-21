@@ -1,5 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&width=435&lines=Hey+there!+I'm+Abinash+%F0%9F%91%8B;Software+Developer+%7C+MERN+Stack+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <pre style="font-family: 'Fira Code', monospace; font-size: 35px; color: #F7DF1E; line-height: 1.2;">
+    Hey there! I'm Abinash 👋
+    Software Developer | MERN Stack Enthusiast
+    Open-Source Contributor
+  </pre>
 </h1>
 
 <p align="center">
