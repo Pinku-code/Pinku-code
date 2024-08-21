@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/Pinku-code"><img src="https://img.shields.io/github/followers/Pinku-code?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?style=social" alt="Twitter Follow"></a>
   <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=Linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
@@ -34,10 +34,10 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/username/clothing-ecommerce">
+  <a href="https://github.com/Pinku-code/clothing-ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=clothing-ecommerce&theme=react&border_color=61dafb&border_radius=10" />
   </a>
-  <a href="https://github.com/username/devops-pipeline-simulator">
+  <a href="https://github.com/Pinku-code/devops-pipeline-simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=devops-pipeline-simulator&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </p>
@@ -47,8 +47,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinku-code&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinku-code&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&style=flat-square&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Pinku-code&style=flat-square&color=blueviolet" alt="Profile views">
 </p>
