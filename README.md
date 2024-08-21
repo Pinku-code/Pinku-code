@@ -34,46 +34,6 @@
 
 ---
 
-<h2 align="center">🎨 Theme Switcher</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Light-ffffff?style=for-the-badge&logo=apacherocketmq&logoColor=black" alt="Light Theme" />
-  <img src="https://img.shields.io/badge/Theme-Dark-000000?style=for-the-badge&logo=apacherocketmq&logoColor=white" alt="Dark Theme" />
-</p>
-
-<p align="center">
-  <small>To implement a theme switcher in your projects, you can use the <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> library. Here's an example of how to use it:</small>
-</p>
-
-<pre>
-<code>
-  &lt;!-- Include this script in your HTML file --&gt;
-  &lt;script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.8/dist/darkmode-js.min.js"&gt;&lt;/script&gt;
-  &lt;script&gt;
-    const options = {
-      bottom: '32px', // Position of the button
-      right: '32px', // Position of the button
-      time: '0.5s', // Transition time
-      mixColor: '#fff', // Color for mix blending
-      backgroundColor: '#fff', // Background color
-      buttonColorDark: '#100f2c', // Dark mode button color
-      buttonColorLight: '#fff', // Light mode button color
-      saveInCookies: true, // Save theme in cookies
-      label: '', // Button label
-      autoMatchOsTheme: true // Automatically match OS theme
-    };
-
-    const darkmode = new Darkmode(options);
-    darkmode.showWidget();
-
-    document.getElementById('theme-toggle').addEventListener('click', () => {
-      darkmode.toggle();
-    });
-  &lt;/script&gt;
-</code>
-</pre>
-
----
 
 <h2 align="center">📫 Get in Touch</h2>
 
