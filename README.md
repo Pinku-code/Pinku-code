@@ -72,7 +72,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Pinku-code&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div> -->
-  <br><br>
+  <br>
   <div align=center>
     <a href="https://github.com/Pinku-code/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinku-code&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -88,12 +88,12 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Pinku-code/Codeforces" title="CodeForces"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=CodeForces&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Pinku-code/JavaScript_Projects" title="JavaScript_Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=JavaScript_Projects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Pinku-code/PortFolio" title="PortFolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PortFolio&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Pinku-code/PyProjectHub" title="PyProjectHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PyProjectHub&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
