@@ -29,6 +29,10 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,docker&theme=light" alt="Tech Stack Icons" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinku-code&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 <h2 align="center">🌟 Featured Projects</h2>
@@ -49,6 +53,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pinku-code&show_icons=true&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinku-code&theme=react&border_color=61dafb&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pinku-code&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ---
