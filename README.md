@@ -42,8 +42,36 @@
 </p>
 
 <p align="center">
-  <small>To implement a theme switcher in your projects, you can use JavaScript libraries such as <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> or write custom scripts to toggle between light and dark modes.</small>
+  <small>To implement a theme switcher in your projects, you can use <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> or similar libraries. See example below:</small>
 </p>
+
+<pre>
+<code>
+  &lt;!-- Include this script in your HTML file --&gt;
+  &lt;script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.8/dist/darkmode-js.min.js"&gt;&lt;/script&gt;
+  &lt;script&gt;
+    const options = {
+      bottom: '32px',
+      right: '32px',
+      time: '0.5s',
+      mixColor: '#fff',
+      backgroundColor: '#fff',
+      buttonColorDark: '#100f2c',
+      buttonColorLight: '#fff',
+      saveInCookies: true,
+      label: '',
+      autoMatchOsTheme: true
+    };
+    
+    const darkmode = new Darkmode(options);
+    darkmode.showWidget();
+    
+    document.getElementById('theme-toggle').addEventListener('click', () => {
+      darkmode.toggle();
+    });
+  &lt;/script&gt;
+</code>
+</pre>
 
 ---
 
