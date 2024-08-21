@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/Pinku-code">
-    <img src="https://img.shields.io/github/followers/Pinku-code?label=Follow&style=flat&logo=github&logoColor=white&color=blue" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Pinku-code?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=blue" alt="GitHub Followers">
   </a>
   <a href="https://twitter.com/username">
-    <img src="https://img.shields.io/twitter/follow/username?style=flat&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/username?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Follow">
   </a>
   <a href="https://www.linkedin.com/in/username/">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -44,13 +44,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/username/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://twitter.com/username">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
 
@@ -68,9 +68,9 @@
 
 <p align="center">
   <a href="https://github.com/Pinku-code">
-    <img src="https://img.shields.io/github/stars/Pinku-code?label=Stars&style=flat&logo=github&logoColor=white&color=gold" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/Pinku-code?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=gold" alt="GitHub Stars">
   </a>
   <a href="https://github.com/Pinku-code">
-    <img src="https://img.shields.io/github/issues/Pinku-code?label=Issues&style=flat&logo=github&logoColor=white&color=red" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues/Pinku-code?label=Issues&style=for-the-badge&logo=github&logoColor=white&color=red" alt="GitHub Issues">
   </a>
 </p>
