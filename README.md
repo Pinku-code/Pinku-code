@@ -7,9 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Pinku-code"><img src="https://img.shields.io/github/followers/Pinku-code?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?style=social" alt="Twitter Follow"></a>
-  <a href="https://www.linkedin.com/in/username/"><img src="https://img.shields.io/badge/-Connect-blue?style=social&logo=Linkedin&logoColor=blue" alt="LinkedIn"></a>
+  <a href="https://github.com/Pinku-code">
+    <img src="https://img.shields.io/github/followers/Pinku-code?label=Follow&style=flat-square&color=blue" alt="GitHub Followers">
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/twitter/follow/username?style=flat-square&color=1DA1F2" alt="Twitter Follow">
+  </a>
+  <a href="https://www.linkedin.com/in/username/">
+    <img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -34,13 +40,18 @@
 
 ---
 
-
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/username/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/username"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/username/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
