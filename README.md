@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <small>To implement a theme switcher in your projects, you can use <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> or similar libraries. See example below:</small>
+  <small>To implement a theme switcher in your projects, you can use the <a href="https://www.npmjs.com/package/darkmode-js">darkmode-js</a> library. Here's an example of how to use it:</small>
 </p>
 
 <pre>
@@ -51,21 +51,21 @@
   &lt;script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.8/dist/darkmode-js.min.js"&gt;&lt;/script&gt;
   &lt;script&gt;
     const options = {
-      bottom: '32px',
-      right: '32px',
-      time: '0.5s',
-      mixColor: '#fff',
-      backgroundColor: '#fff',
-      buttonColorDark: '#100f2c',
-      buttonColorLight: '#fff',
-      saveInCookies: true,
-      label: '',
-      autoMatchOsTheme: true
+      bottom: '32px', // Position of the button
+      right: '32px', // Position of the button
+      time: '0.5s', // Transition time
+      mixColor: '#fff', // Color for mix blending
+      backgroundColor: '#fff', // Background color
+      buttonColorDark: '#100f2c', // Dark mode button color
+      buttonColorLight: '#fff', // Light mode button color
+      saveInCookies: true, // Save theme in cookies
+      label: '', // Button label
+      autoMatchOsTheme: true // Automatically match OS theme
     };
-    
+
     const darkmode = new Darkmode(options);
     darkmode.showWidget();
-    
+
     document.getElementById('theme-toggle').addEventListener('click', () => {
       darkmode.toggle();
     });
