@@ -35,10 +35,10 @@
 
 <p align="center">
   <a href="https://github.com/username/clothing-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=clothing-ecommerce&theme=react&border_color=61dafb&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=clothing-ecommerce&theme=react&border_color=61dafb&border_radius=10" />
   </a>
   <a href="https://github.com/username/devops-pipeline-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=devops-pipeline-simulator&theme=react&border_color=61dafb&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=devops-pipeline-simulator&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </p>
 
