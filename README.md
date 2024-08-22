@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Abinash, Computer Engineer & Software Developer from India
+  Hi, I'm Abinash, Computer Engineer & Software Developer.
   <br>
   <br>
 
@@ -21,7 +21,6 @@
   <br>
   Passionate developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a knack for crafting scalable and efficient web applications. I thrive on building innovative solutions and tackling complex challenges, leveraging my expertise in both front-end and back-end development.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Pinku-code/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: ns4507262@gmail.com">ns4507262@gmail.com</a>
 </p>
@@ -87,23 +86,31 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Pinku-code/Codeforces" title="CodeForces"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=CodeForces&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Pinku-code/JavaScript_Projects" title="JavaScript_Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=JavaScript_Projects&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Pinku-code/PortFolio" title="PortFolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PortFolio&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Pinku-code/PyProjectHub" title="PyProjectHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PyProjectHub&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Pinku-code/Codeforces" title="CodeForces"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=CodeForces&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  <a align="right" href="https://github.com/Pinku-code/JavaScript_Projects" title="JavaScript_Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=JavaScript_Projects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Pinku-code/PortFolio" title="PortFolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PortFolio&theme=react&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/Pinku-code/PyProjectHub" title="PyProjectHub"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=PyProjectHub&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Pinku-code/Leetcode-SQL-50" title="Leetcode-SQL-50"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=Leetcode-SQL-50&theme=react&border_color=61dafb&border_radius=10"></a>
+
+  <a align="right" href="https://github.com/Pinku-code/Linux-Essential" title="Linux-Essential"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Pinku-code&repo=Linux-Essential&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Pinku-code?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
