@@ -41,10 +41,10 @@
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
 <!--   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
+<!--   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+<!--   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
 <!--   <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <code><img title="JSON" height="25" src="images/json.svg"></code>
 <!--   <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
@@ -52,7 +52,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+<!--   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
