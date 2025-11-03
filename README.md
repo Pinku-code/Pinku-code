@@ -12,10 +12,6 @@
 <p align="center">
   Hi, I'm Abinash, Computer Engineer & Software Developer.
   <br>
-  <br>
-
-  💻 MERN Enthusiast.
-  <br>
   Backend developer by logic, API crafter by passion 🐍
   <br>
   🧩 Python | FastAPI | Django | Flask
