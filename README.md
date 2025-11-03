@@ -24,8 +24,6 @@
   📫 How to reach me: <a href="mailto: ns4507262@gmail.com">ns4507262@gmail.com</a>
 </p>
 
-<hr>
-<!-- <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2> -->
 <br>
 <p align="center">
 <!--   <code><img title="C" height="5" src="images/c.svg"></code>
