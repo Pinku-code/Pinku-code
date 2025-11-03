@@ -16,11 +16,10 @@
 
   💻 MERN Enthusiast.
   <br>
-  🐍 Python Backend Developer | API Architect
-  ⚙️ Building scalable, efficient, and secure backend systems.
-  💡 Skilled in Django, FastAPI, Flask, and RESTful API design.
-  🚀 Turning ideas into reliable backend solutions.
-  📫 Let’s connect & collaborate!
+  Backend developer by logic, API crafter by passion 🐍
+  🧩 Python | FastAPI | Django | Flask
+  💡 Building efficient backends that power great user experiences.
+  ☕ Fueled by coffee and clean code.
   <br>
   <br>
   📫 How to reach me: <a href="mailto: ns4507262@gmail.com">ns4507262@gmail.com</a>
