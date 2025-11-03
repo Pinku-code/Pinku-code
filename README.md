@@ -17,8 +17,11 @@
   💻 MERN Enthusiast.
   <br>
   Backend developer by logic, API crafter by passion 🐍
+  <br>
   🧩 Python | FastAPI | Django | Flask
+  <br>
   💡 Building efficient backends that power great user experiences.
+  <br>
   ☕ Fueled by coffee and clean code.
   <br>
   <br>
