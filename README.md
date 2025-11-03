@@ -16,7 +16,11 @@
 
   💻 MERN Enthusiast.
   <br>
-  Passionate developer specializing in the MERN stack (MongoDB, Express, React, Node.js) with a knack for crafting scalable and efficient web applications. I thrive on building innovative solutions and tackling complex challenges, leveraging my expertise in both front-end and back-end development.
+  🐍 Python Backend Developer | API Architect
+  ⚙️ Building scalable, efficient, and secure backend systems.
+  💡 Skilled in Django, FastAPI, Flask, and RESTful API design.
+  🚀 Turning ideas into reliable backend solutions.
+  📫 Let’s connect & collaborate!
   <br>
   <br>
   📫 How to reach me: <a href="mailto: ns4507262@gmail.com">ns4507262@gmail.com</a>
